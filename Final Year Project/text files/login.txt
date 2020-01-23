@@ -1,0 +1,21 @@
+<html>
+<head>
+<meta content="text/html; charset=ISO-8859-1"
+http-equiv="content-type">
+<title>LOGIN</title>
+<script type="text/javascript">
+function make_blank()
+{
+document.login.type.value="";
+}
+
+</script>
+</head>
+<body style="background-color: powderblue;">
+<form action="profile" name="login"> <iframe src="username.html"
+style="background-color: powderblue;" border="0" height="50"
+scrolling="no" width="1350"> </iframe> <iframe
+src="createAccount.html" style="background-color: powderblue;"
+border="0" height="1500" scrolling="no" width="1350"> </iframe></form>
+</body>
+</html>
